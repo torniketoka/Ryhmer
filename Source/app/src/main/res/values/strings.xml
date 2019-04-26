@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyRymer</string>
+    <string name="Synonym">Synonym</string>
+    <string name="Rhyme">Rhyme</string>
+    <string name="Frecuence">Frecuence</string>
+    <string name="Frequence">Frequence</string>
+</resources>
