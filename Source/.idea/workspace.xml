@@ -42,7 +42,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="276be51b-45a2-49b8-85d8-1e6c3f2d41c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -203,7 +203,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1922" height="1030" extended-state="7" />
+    <frame x="-1" y="0" width="1922" height="1030" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" visible="true" weight="0.32977587" />
       <window_info id="Structure" side_tool="true" />
@@ -220,7 +220,7 @@
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="Android Profiler" />
       <window_info anchor="bottom" id="Debug" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.48729283" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.6077348" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.3281768" />
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
